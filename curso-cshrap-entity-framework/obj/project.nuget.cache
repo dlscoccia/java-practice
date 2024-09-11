@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "upp8aqvopZg=",
+  "dgSpecHash": "4QDoF7OF7Lc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-ef\\curso-cshrap-ef.csproj",
+  "projectFilePath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-entity-framework\\curso-cshrap-ef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dlsco\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dlsco\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

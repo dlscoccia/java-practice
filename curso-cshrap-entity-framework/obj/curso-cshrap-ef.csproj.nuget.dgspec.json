@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-ef\\curso-cshrap-ef.csproj": {}
+    "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-entity-framework\\curso-cshrap-ef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-ef\\curso-cshrap-ef.csproj": {
+    "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-entity-framework\\curso-cshrap-ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-ef\\curso-cshrap-ef.csproj",
+        "projectUniqueName": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-entity-framework\\curso-cshrap-ef.csproj",
         "projectName": "curso-cshrap-ef",
-        "projectPath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-ef\\curso-cshrap-ef.csproj",
+        "projectPath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-entity-framework\\curso-cshrap-ef.csproj",
         "packagesPath": "C:\\Users\\dlsco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-ef\\obj\\",
+        "outputPath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\curso-cshrap-entity-framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dlsco\\AppData\\Roaming\\NuGet\\NuGet.Config",
