@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curso-cshrap-ef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46bcbf9028e5c04fbac622e975e615b21ac2743")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18d4d06dd3c78fef7bab8cb67fc5cf18215ad61")]
 [assembly: System.Reflection.AssemblyProductAttribute("curso-cshrap-ef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curso-cshrap-ef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
