@@ -4,23 +4,20 @@ require('dotenv').config();
 
 const { dbConection } = require('./database/config');
 
+// Init
 const app = express();
 
+// Middleware
 app.use(cors());
+app.use(express.json());
 
+// DB
 dbConection();
 
-app.get('/', (req, res) => {
-    res.json({
-        ok: true,
-        msg: 'hello Fonzi',
-    });
-});
+// Routes
+app.use('/api/users', require('./routes/users.routes'));
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Server running on port: ${PORT}`);
 });
-
-// root_mean
-// KOt8r68tCUnJzmHG
