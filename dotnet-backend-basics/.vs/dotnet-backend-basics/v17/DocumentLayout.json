@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|c:\\users\\dlsco\\onedrive\\desktop\\codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC585255-6667-4437-AAC8-44C3803E281F}|dotnet-backend-basics\\dotnet-backend-basics.csproj|solutionrelative:dotnet-backend-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Repository\\IRepository.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:49:01.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Repository\\BeerRepository.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Repository\\BeerRepository.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Repository\\BeerRepository.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Repository\\BeerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:45:59.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:43:33.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Services\\ICommonService.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Services\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Services\\ICommonService.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Services\\ICommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:41:03.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Automappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Automappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Automappers\\MappingProfile.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Automappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:14:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Services\\BeerService.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Services\\BeerService.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Services\\BeerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:46:06.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet-backend-basics\\Program.cs",
+              "ToolTip": "C:\\Users\\dlsco\\OneDrive\\Desktop\\Codigo\\back-practice\\dotnet-backend-basics\\dotnet-backend-basics\\Program.cs",
+              "RelativeToolTip": "dotnet-backend-basics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:24:42.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
